@@ -1,0 +1,11 @@
+package-lock.json
+node_modules/
+.idea/
+Documentation/
+src/configs/
+CHANGELOG.md
+ISSUE_TEMPLATE.md
+README.md
+LICENSE.md
+.eslintcache
+.github
